@@ -1,0 +1,5 @@
+Name : Steve Smith
+contact : 4654654846, 687687684
+Addres : Khardai, Pune , Maharastra
+Coding Laguages : c,c++, java,  
+Hobbies : Playing, Reading , Singing
